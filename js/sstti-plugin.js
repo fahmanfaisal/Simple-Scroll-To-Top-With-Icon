@@ -28,10 +28,10 @@
 		$(window).scroll(function(){
 			
 			if($(window).scrollTop() > trigger){
-				btn.addClass('bck-on');
+				btn.addClass('cssScrollTop-on');
 	
 			}else{
-				btn.removeClass('bck-on');
+				btn.removeClass('cssScrollTop-on');
 			}
 			
 		

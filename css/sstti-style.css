@@ -1,8 +1,7 @@
-.bck {
+.cssScrollTop {
 	position: fixed;
 	bottom: 1rem;
 	right: 1rem;
-	background: rgba(0,0,0,.8);
 	color: #ffffff;
 	visibility: hidden;
 	width: 50px;
@@ -10,26 +9,27 @@
 	line-height: 50px;
 	text-align:center;
 	transition-property: all;
+	cursor: pointer;
 }
 
-.bck.bck-on {visibility: visible;}
+.cssScrollTop.cssScrollTop-on {visibility: visible;}
 
 .fade{opacity: 0;}
 
-.bck-on.fade{opacity: 1;}
+.cssScrollTop-on.fade{opacity: 1;}
 
 .rightToLeft {right : -50px;}
 
-.bck-on.rightToLeft{right: 1rem;}
+.cssScrollTop-on.rightToLeft{right: 1rem;}
 
 .bottomToTop {bottom: -50px;}
 
-.bck-on.bottomToTop {bottom:1rem;}
+.cssScrollTop-on.bottomToTop {bottom:1rem;}
 
-.bck-leftToRight {left: -50px;}
+.cssScrollTop-leftToRight {left: -50px;}
 
-.bck-on.leftToRight {left:1rem;}
+.cssScrollTop-on.leftToRight {left:1rem;}
 
 .topToBottom {top: -50px;}
 
-.bck-on.topToBottom {top:1rem;}
+.cssScrollTop-on.topToBottom {top:1rem;}
