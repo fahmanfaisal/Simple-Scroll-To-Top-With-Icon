@@ -1,8 +1,10 @@
 === Simple Scroll To Top With Icon ===
-Contributors: mdFaisalChy
+Contributors: mdfaisalchowdhury
+Author URI: https://fahmanfaisal.github.io/PortfolioMDFaisal/
+Plugin Uri: https://wordpress.org/plugins/simple-scroll-to-top-with-icon/
 Tags: scroll to top, back to top, scroll button, customizable icon, smooth scroll
-Requires at least: 5.2
-Tested up to: 5.8.2
+Requires at least: 5.0
+Tested up to: 6.6.1
 Requires PHP: 7.2
 Stable Tag: 1.0.0
 License: GPLv2 or later
@@ -18,6 +20,10 @@ Simple Scroll To Top With Icon adds a smooth scroll-to-top button to your WordPr
 
 This lightweight plugin is easy to set up. Just activate it and configure the settings from the “Scroll To Top With Icon” menu tab.
 
+Plugin documentation: [https://wordpress.org/plugins/simple-scroll-to-top-with-icon/] (https://wordpress.org/plugins/simple-scroll-to-top-with-icon/)
+*  [Need Help?] (https://fahmanfaisal.github.io/PortfolioMDFaisal/#contact)
+*  [About Author] (https://github.com/fahmanfaisal/)
+
 = Works everywhere =
 
 Simple Scroll To Top With Icon works on all major browsers and is compatible with any theme and device.
@@ -26,10 +32,9 @@ Simple Scroll To Top With Icon works on all major browsers and is compatible wit
 
 - Quick to set up
 - Customizable icon
-- Smooth scroll animation
-- Option to enable/disable the button
+- Smooth animation
 - Customizable background color
-- Multiple design styles
+- Customizable iocn color easily
 - Responsive
 - Easy to use
 

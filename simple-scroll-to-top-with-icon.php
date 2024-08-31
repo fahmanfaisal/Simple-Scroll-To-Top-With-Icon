@@ -7,8 +7,8 @@
  * Version: 1.0.0
  * Requires at least: 5.2
  * Requires PHP: 7.2
- * Author: MD Faisal Chy
- * Author URI: https://scriptnotion.com/
+ * Author: WPMonster
+ * Author URI: https://fahmanfaisal.github.io/PortfolioMDFaisal/
  * License: GPLv2 or later
  * License URI: http://www.gnu.org/licenses/gpl-2.0.html
  * Update URI: https://github.com/fahmanfaisal/Simple-Scroll-To-Top-With-Icon
