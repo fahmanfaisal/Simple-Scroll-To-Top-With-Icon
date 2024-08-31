@@ -16,6 +16,7 @@
  */
 
 
+
 // Including CSS
 function sstti_enqueue_style()
 {
