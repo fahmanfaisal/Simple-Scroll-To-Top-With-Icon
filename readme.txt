@@ -1,7 +1,7 @@
 === Simple Scroll To Top With Icon ===
 Contributors: mdfaisalchowdhury
 Author URI: https://fahmanfaisal.github.io/PortfolioMDFaisal/
-Plugin Uri: https://wordpress.org/plugins/simple-scroll-to-top-with-icon/
+Plugin URI: https://wordpress.org/plugins/simple-scroll-to-top-with-icon/
 Tags: scroll to top, back to top, scroll button, customizable icon, smooth scroll
 Requires at least: 5.0
 Tested up to: 6.6.1
@@ -10,7 +10,7 @@ Stable Tag: 1.0.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Easily add a scroll to top button with a customizable icon to your WordPress site. Enhance user experience by allowing visitors to smoothly scroll back to the top of the page with a single click.
+Add a scroll to top button with a customizable icon to your site, allowing visitors to smoothly scroll back to the top.
 
 == Description ==
 
@@ -34,7 +34,7 @@ Simple Scroll To Top With Icon works on all major browsers and is compatible wit
 - Customizable icon
 - Smooth animation
 - Customizable background color
-- Customizable iocn color easily
+- Customizable icon color easily
 - Responsive
 - Easy to use
 
